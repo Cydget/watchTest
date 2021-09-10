@@ -26,8 +26,8 @@
 #include <Wire.h>
 #define ALARMMAXTIME 20
 #ifndef STASSID
-#define STASSID "Kodi"
-#define STAPSK  "pinkmoon963"
+#define STASSID "SSID"
+#define STAPSK  "pass" 
 #endif
 #define DEBUG_SERIAL if(DEBUG)Serial
 #define DISPLAYI2CDATA false
